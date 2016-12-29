@@ -35,3 +35,8 @@ cd /usr/local/directadmin/plugins/da-letsencrypt
 git pull
 composer update
 ```
+### Update
+```
+http://www.zrblog.net/14629.html
+http://www.hostloc.com/thread-301665-1-1.html
+```
